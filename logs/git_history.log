@@ -1,0 +1,7 @@
+* cb34020 - 2312660 - Dinh Thi Mai Lanh (Fri Oct 16 16:57:07 2026 +0700): Tai len bao cao HTML coverage tu GitHub Actions
+* 6699f23 - 2312660 - Dinh Thi Mai Lanh (Fri Oct 16 16:56:23 2026 +0700): Khoi phuc build sau kiem tra linter
+* b0c9271 - 2312660 - Dinh Thi Mai Lanh (Fri Oct 16 16:55:40 2026 +0700): Thuc hanh break the build bang loi cu phap
+* be97549 - 2312660 - Dinh Thi Mai Lanh (Fri Oct 16 16:53:26 2026 +0700): Bo sung test mocking promo va GPS
+* 7439886 - 2312660 - Dinh Thi Mai Lanh (Fri Oct 16 16:50:24 2026 +0700): Kich hoat linter va quality gate coverage 80 phan tram
+* 8619263 - 2312660 - Dinh Thi Mai Lanh (Fri Oct 16 16:45:32 2026 +0700): Them GitHub Actions CI cho nhiem vu tiet 2
+* 50a0dfb - 2312660 - Dinh Thi Mai Lanh (Fri Oct 16 16:42:06 2026 +0700): Hoan thanh nhiem vu tiet 1 YummyApp
